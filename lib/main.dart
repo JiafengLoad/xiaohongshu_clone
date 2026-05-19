@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:xiaohongshu_clone/market/home/page/MarketPage.dart';
 import 'package:xiaohongshu_clone/moudle/add/AddPage.dart';
-import 'package:xiaohongshu_clone/moudle/home/HomePage.dart';
+import 'package:xiaohongshu_clone/moudle/home/home/HomePage.dart';
 import 'package:xiaohongshu_clone/moudle/message/MessagePage.dart';
 import 'package:xiaohongshu_clone/moudle/mine/mine.dart';
 

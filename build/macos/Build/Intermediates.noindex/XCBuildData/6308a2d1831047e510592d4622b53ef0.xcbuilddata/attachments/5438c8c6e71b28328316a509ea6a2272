@@ -1,0 +1,4 @@
+
+module video_player_avfoundation.__Swift {
+  exclude header "video_player_avfoundation-Swift.h"
+}

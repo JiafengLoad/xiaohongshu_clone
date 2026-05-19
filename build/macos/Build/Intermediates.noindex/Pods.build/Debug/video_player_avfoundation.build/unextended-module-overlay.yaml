@@ -1,0 +1,23 @@
+{
+  "version": 0,
+  "use-external-names": false,
+  "case-sensitive": false,
+  "roots": [{
+    "type": "directory",
+    "name": "/Users/fengqi/Desktop/flutter/xiaohongshu_clone/build/macos/Build/Products/Debug/video_player_avfoundation/video_player_avfoundation.framework/Modules",
+    "contents": [{
+      "type": "file",
+      "name": "module.modulemap",
+      "external-contents": "/Users/fengqi/Desktop/flutter/xiaohongshu_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/video_player_avfoundation.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    "type": "directory",
+    "name": "/Users/fengqi/Desktop/flutter/xiaohongshu_clone/build/macos/Build/Products/Debug/video_player_avfoundation/video_player_avfoundation.framework/Headers",
+    "contents": [{
+      "type": "file",
+      "name": "video_player_avfoundation-Swift.h",
+      "external-contents": "/Users/fengqi/Desktop/flutter/xiaohongshu_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/video_player_avfoundation.build/unextended-interface-header.h",
+    }]
+  }]
+}

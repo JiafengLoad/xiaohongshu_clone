@@ -1,0 +1,39 @@
+{
+  "" : {
+    "diagnostics" : "/Users/fengqi/Desktop/flutter/xiaohongshu_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/video_player_avfoundation.build/Objects-normal/arm64/video_player_avfoundation-primary.dia",
+    "emit-module-dependencies" : "/Users/fengqi/Desktop/flutter/xiaohongshu_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/video_player_avfoundation.build/Objects-normal/arm64/video_player_avfoundation-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/fengqi/Desktop/flutter/xiaohongshu_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/video_player_avfoundation.build/Objects-normal/arm64/video_player_avfoundation-primary-emit-module.dia",
+    "pch" : "/Users/fengqi/Desktop/flutter/xiaohongshu_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/video_player_avfoundation.build/Objects-normal/arm64/video_player_avfoundation-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/fengqi/Desktop/flutter/xiaohongshu_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/video_player_avfoundation.build/Objects-normal/arm64/video_player_avfoundation-primary.swiftdeps"
+  },
+  "/Users/fengqi/.pub-cache/hosted/pub.flutter-io.cn/video_player_avfoundation-2.9.6/darwin/video_player_avfoundation/Sources/video_player_avfoundation/NativeVideoViewFactory.swift" : {
+    "const-values" : "/Users/fengqi/Desktop/flutter/xiaohongshu_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/video_player_avfoundation.build/Objects-normal/arm64/NativeVideoViewFactory.swiftconstvalues",
+    "dependencies" : "/Users/fengqi/Desktop/flutter/xiaohongshu_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/video_player_avfoundation.build/Objects-normal/arm64/NativeVideoViewFactory.d",
+    "diagnostics" : "/Users/fengqi/Desktop/flutter/xiaohongshu_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/video_player_avfoundation.build/Objects-normal/arm64/NativeVideoViewFactory.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/video_player_avfoundation.build/Objects-normal/arm64/NativeVideoViewFactory.o",
+    "llvm-bc" : "/Users/fengqi/Desktop/flutter/xiaohongshu_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/video_player_avfoundation.build/Objects-normal/arm64/NativeVideoViewFactory.bc",
+    "object" : "/Users/fengqi/Desktop/flutter/xiaohongshu_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/video_player_avfoundation.build/Objects-normal/arm64/NativeVideoViewFactory.o",
+    "swift-dependencies" : "/Users/fengqi/Desktop/flutter/xiaohongshu_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/video_player_avfoundation.build/Objects-normal/arm64/NativeVideoViewFactory.swiftdeps",
+    "swiftmodule" : "/Users/fengqi/Desktop/flutter/xiaohongshu_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/video_player_avfoundation.build/Objects-normal/arm64/NativeVideoViewFactory~partial.swiftmodule"
+  },
+  "/Users/fengqi/.pub-cache/hosted/pub.flutter-io.cn/video_player_avfoundation-2.9.6/darwin/video_player_avfoundation/Sources/video_player_avfoundation/VideoPlayerPlugin.swift" : {
+    "const-values" : "/Users/fengqi/Desktop/flutter/xiaohongshu_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/video_player_avfoundation.build/Objects-normal/arm64/VideoPlayerPlugin.swiftconstvalues",
+    "dependencies" : "/Users/fengqi/Desktop/flutter/xiaohongshu_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/video_player_avfoundation.build/Objects-normal/arm64/VideoPlayerPlugin.d",
+    "diagnostics" : "/Users/fengqi/Desktop/flutter/xiaohongshu_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/video_player_avfoundation.build/Objects-normal/arm64/VideoPlayerPlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/video_player_avfoundation.build/Objects-normal/arm64/VideoPlayerPlugin.o",
+    "llvm-bc" : "/Users/fengqi/Desktop/flutter/xiaohongshu_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/video_player_avfoundation.build/Objects-normal/arm64/VideoPlayerPlugin.bc",
+    "object" : "/Users/fengqi/Desktop/flutter/xiaohongshu_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/video_player_avfoundation.build/Objects-normal/arm64/VideoPlayerPlugin.o",
+    "swift-dependencies" : "/Users/fengqi/Desktop/flutter/xiaohongshu_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/video_player_avfoundation.build/Objects-normal/arm64/VideoPlayerPlugin.swiftdeps",
+    "swiftmodule" : "/Users/fengqi/Desktop/flutter/xiaohongshu_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/video_player_avfoundation.build/Objects-normal/arm64/VideoPlayerPlugin~partial.swiftmodule"
+  },
+  "/Users/fengqi/.pub-cache/hosted/pub.flutter-io.cn/video_player_avfoundation-2.9.6/darwin/video_player_avfoundation/Sources/video_player_avfoundation/VideoPlayerPluginMessages.g.swift" : {
+    "const-values" : "/Users/fengqi/Desktop/flutter/xiaohongshu_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/video_player_avfoundation.build/Objects-normal/arm64/VideoPlayerPluginMessages.g.swiftconstvalues",
+    "dependencies" : "/Users/fengqi/Desktop/flutter/xiaohongshu_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/video_player_avfoundation.build/Objects-normal/arm64/VideoPlayerPluginMessages.g.d",
+    "diagnostics" : "/Users/fengqi/Desktop/flutter/xiaohongshu_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/video_player_avfoundation.build/Objects-normal/arm64/VideoPlayerPluginMessages.g.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/video_player_avfoundation.build/Objects-normal/arm64/VideoPlayerPluginMessages.g.o",
+    "llvm-bc" : "/Users/fengqi/Desktop/flutter/xiaohongshu_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/video_player_avfoundation.build/Objects-normal/arm64/VideoPlayerPluginMessages.g.bc",
+    "object" : "/Users/fengqi/Desktop/flutter/xiaohongshu_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/video_player_avfoundation.build/Objects-normal/arm64/VideoPlayerPluginMessages.g.o",
+    "swift-dependencies" : "/Users/fengqi/Desktop/flutter/xiaohongshu_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/video_player_avfoundation.build/Objects-normal/arm64/VideoPlayerPluginMessages.g.swiftdeps",
+    "swiftmodule" : "/Users/fengqi/Desktop/flutter/xiaohongshu_clone/build/macos/Build/Intermediates.noindex/Pods.build/Debug/video_player_avfoundation.build/Objects-normal/arm64/VideoPlayerPluginMessages.g~partial.swiftmodule"
+  }
+}

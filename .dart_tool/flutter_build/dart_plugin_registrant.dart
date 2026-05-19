@@ -8,11 +8,14 @@
 import 'dart:io'; // flutter_ignore: dart_io_import.
 import 'package:path_provider_android/path_provider_android.dart' as path_provider_android;
 import 'package:sqflite_android/sqflite_android.dart' as sqflite_android;
+import 'package:video_player_android/video_player_android.dart' as video_player_android;
 import 'package:path_provider_foundation/path_provider_foundation.dart' as path_provider_foundation;
 import 'package:sqflite_darwin/sqflite_darwin.dart' as sqflite_darwin;
+import 'package:video_player_avfoundation/video_player_avfoundation.dart' as video_player_avfoundation;
 import 'package:path_provider_linux/path_provider_linux.dart' as path_provider_linux;
 import 'package:path_provider_foundation/path_provider_foundation.dart' as path_provider_foundation;
 import 'package:sqflite_darwin/sqflite_darwin.dart' as sqflite_darwin;
+import 'package:video_player_avfoundation/video_player_avfoundation.dart' as video_player_avfoundation;
 import 'package:path_provider_windows/path_provider_windows.dart' as path_provider_windows;
 
 @pragma('vm:entry-point')
@@ -39,6 +42,15 @@ class _PluginRegistrant {
         );
       }
 
+      try {
+        video_player_android.AndroidVideoPlayer.registerWith();
+      } catch (err) {
+        print(
+          '`video_player_android` threw an error: $err. '
+          'The app may not function as expected until you remove this plugin from pubspec.yaml'
+        );
+      }
+
     } else if (Platform.isIOS) {
       try {
         path_provider_foundation.PathProviderFoundation.registerWith();
@@ -54,6 +66,15 @@ class _PluginRegistrant {
       } catch (err) {
         print(
           '`sqflite_darwin` threw an error: $err. '
+          'The app may not function as expected until you remove this plugin from pubspec.yaml'
+        );
+      }
+
+      try {
+        video_player_avfoundation.AVFoundationVideoPlayer.registerWith();
+      } catch (err) {
+        print(
+          '`video_player_avfoundation` threw an error: $err. '
           'The app may not function as expected until you remove this plugin from pubspec.yaml'
         );
       }
@@ -83,6 +104,15 @@ class _PluginRegistrant {
       } catch (err) {
         print(
           '`sqflite_darwin` threw an error: $err. '
+          'The app may not function as expected until you remove this plugin from pubspec.yaml'
+        );
+      }
+
+      try {
+        video_player_avfoundation.AVFoundationVideoPlayer.registerWith();
+      } catch (err) {
+        print(
+          '`video_player_avfoundation` threw an error: $err. '
           'The app may not function as expected until you remove this plugin from pubspec.yaml'
         );
       }
